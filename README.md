@@ -21,9 +21,9 @@ const nissrine = {
   CMS : [WORDPRESS]
 
   Langues: {
-    Anglais: "Fluent",
+    Anglais: "Proficient",
     Français: "Proficient",
-    Arabe: "Proficient",
+    Arabe: "Fluent",
   },
   challenge:
     "I am doing the #100 DaysOfCode challenge focused on React and TypeScript.
