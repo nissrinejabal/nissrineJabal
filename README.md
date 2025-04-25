@@ -26,7 +26,9 @@ const nissrine = {
     Arabe: "Proficient",
   },
   challenge:
-    "I am doing the #100 DaysOfCode challenge focused on React and TypeScript. As part of this, I'm building my portfolio from scratch using React.js, and also creating a separate version with Vue.js to explore both ecosystems.",
+    "I am doing the #100 DaysOfCode challenge focused on React and TypeScript. As part of this, 
+     I'm building my portfolio from scratch using React.js, 
+     and also creating a separate version with Vue.js to explore both ecosystems.",
 };
 ```
 
