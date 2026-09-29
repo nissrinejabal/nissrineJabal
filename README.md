@@ -18,8 +18,8 @@ const nissrine = {
   Gestion de version : [Git / GitHub],
   Design : [Bootstrap, Pack Adobe],
   Bases de données : [SQL SERVER,MYSQL],
-  CMS : [WORDPRESS]
-  Gestion des risques (EBIOS RM)
+  CMS : [WORDPRESS],
+  Gestion des risques (EBIOS RM),
   hacking éthique,
   cryptographie,
   gestion des identités et des accès (IAM),
