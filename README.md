@@ -1,7 +1,7 @@
 <h2> Hi, I'm Nissrine Jabal <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I2bzkyb252b250ZWhrbWtqcHY1M3pxcDZ5YzJvbGx3MnBwYnViNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1pwl0F67JHGFLseNk/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh4Y2gwcnYzeXEzaWU0ZHE4emthejViaGprZXdiemNqYmtmY2dqbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="230">
 
-<p><em>Software Engineer graduate from <a href="https://ece.fr/ ">ECE PARIS</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6cGE3MGx5bTAxN2FjMnFjOWk1bGYwZjRqMG9uOGV1bGgxaTM5ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="30"></br>front-end developer at <a href="https://www.reactivux.com/">Reactivux</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software and cybersecurity Engineer graduate from <a href="https://ece.fr/ ">ECE PARIS</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR6cGE3MGx5bTAxN2FjMnFjOWk1bGYwZjRqMG9uOGV1bGgxaTM5ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="30"></br>front-end developer at <a href="https://www.reactivux.com/">Reactivux</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: nissrinejabal](https://img.shields.io/badge/-nissrinejabal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nissrine-jabal-b2a711192/)](https://www.linkedin.com/in/nissrine-jabal-b2a711192/)
