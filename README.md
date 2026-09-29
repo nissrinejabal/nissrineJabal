@@ -36,7 +36,7 @@ const nissrine = {
 };
 ```
 
-<img src="https://media.giphy.com/media/4eypShqG7ddoN6BGHK/giphy.gif?cid=ecf05e47bgvaa2647dcgpz18nfrbisgw8xdsdh105v87k9xh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> <em><b>I love coding and creating websites</b> — it's where I bring ideas to life through design and code!</em>
+<img src="https://media.giphy.com/media/4eypShqG7ddoN6BGHK/giphy.gif?cid=ecf05e47bgvaa2647dcgpz18nfrbisgw8xdsdh105v87k9xh&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"><em><b>I love building software and exploring cybersecurity</b> — turning ideas into code while creating secure and reliable digital solutions!</em>
 
 ---
 
